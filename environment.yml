@@ -14,7 +14,7 @@ dependencies:
   - bokeh
   - dask
   - pyproj=3.3.0
-  - scipy=.7.1
+  - scipy=1.7.1
   - proplot=0.9.5
   - shapely=1.7.1
   - pyshp=2.1
