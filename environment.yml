@@ -4,11 +4,16 @@ channels:
 dependencies:
   - python=3.11
   - numpy
-  - psutil
-  - toolz
   - matplotlib
-  - dill
+  - mpl_toolkits
+  - netCDF4
+  - os
+  - scipy
+  - pyproj 
+  - astropy 
+  - h5py 
+  - itertools
+  - sys
+  - copy
   - pandas
-  - partd
-  - bokeh
-  - dask
+  - proplot 
