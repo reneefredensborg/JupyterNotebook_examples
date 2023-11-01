@@ -15,4 +15,3 @@ dependencies:
   - dask
   - pyproj
   - scipy
-  - proplot
