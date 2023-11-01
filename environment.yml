@@ -2,7 +2,7 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
+  - python=3.4
   - numpy
   - matplotlib
   - mpl_toolkits
@@ -12,9 +12,7 @@ dependencies:
   - pyproj 
   - astropy 
   - h5py 
-  - itertools
   - sys
-  - copy
   - pandas
   - proplot 
   - cartopy
