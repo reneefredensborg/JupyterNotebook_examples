@@ -17,3 +17,4 @@ dependencies:
   - copy
   - pandas
   - proplot 
+  - cartopy
