@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.9.18
-  - numpy=1.20.3
+  - numpy=1.21.6
   - psutil
   - toolz
   - netCDF4=1.6.0
